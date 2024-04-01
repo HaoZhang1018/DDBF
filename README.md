@@ -1,4 +1,4 @@
-# DDBF_CVPR2024
+# DDBF CVPR2024
 The code of Dispel Darkness for Better Fusion: A Controllable Visual Enhancer based on Cross-modal Conditional Adversarial Learning
 
 #### Recommended Environment:<br>
