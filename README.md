@@ -1,6 +1,17 @@
 # DDBF CVPR2024
 The code of Dispel Darkness for Better Fusion: A Controllable Visual Enhancer based on Cross-modal Conditional Adversarial Learning
 
+````
+@inproceedings{zhang2024dispel,
+  title={Dispel Darkness for Better Fusion: A Controllable Visual Enhancer based on Cross-modal Conditional Adversarial Learning},
+  author={Zhang, Hao and Tang, Linfeng and Xiang, Xinyu and Zuo, Xuhui and Ma, Jiayi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={26487--26496},
+  year={2024}
+}
+````
+
+
 #### Recommended Environment:<br>
  - [ ] python = 2.7
  - [ ] tensorflow-gpu = 1.9.0
